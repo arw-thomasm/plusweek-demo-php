@@ -385,7 +385,7 @@
                     <li class="cbp-item psychiatrist">
                         <a href="doctors/member1.html" class="cbp-caption cbp-singlePage">
                             <div class="cbp-caption-defaultWrap">
-                                <img src="img/team/1.jpg" alt="" width="100%">
+                                <img src="img/team/alfred.jpg" alt="" width="100%">
                             </div>
                             <div class="cbp-caption-activeWrap">
                                 <div class="cbp-l-caption-alignCenter">
@@ -395,7 +395,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="doctors/member1.html" class="cbp-singlePage cbp-l-grid-team-name">Alice Grue</a>
+                        <a href="doctors/member1.html" class="cbp-singlePage cbp-l-grid-team-name">Alfred Bach</a>
                         <div class="cbp-l-grid-team-position">Psychiatrist</div>
                     </li>
                     <li class="cbp-item cardiologist">
